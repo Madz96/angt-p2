@@ -20,6 +20,7 @@
     "@angular/platform-browser": "^6.0.0",
     "@angular/platform-browser-dynamic": "^6.0.0",
     "@angular/router": "^6.0.0",
+    "angt-lib": "git+https://github.com/Madz96/angt-dist.git",
     "rxjs": "^6.0.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
